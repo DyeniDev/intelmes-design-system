@@ -1,0 +1,3 @@
+{
+  "extends": "@intelmes/eslint-config"
+}
