@@ -1,4 +1,4 @@
 {
-  "extends": "@intelmes/ts-config/react.json",
+  "extends": "@design-system/ts-config/react.json",
   "include": ["src"]
 }

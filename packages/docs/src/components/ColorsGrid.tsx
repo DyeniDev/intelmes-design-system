@@ -1,4 +1,4 @@
-import { colors } from '@intelmes/tokens'
+import { colors } from '@design-system/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

@@ -1,10 +1,18 @@
 export const colors = {
   white: '#FFF',
-  seaGreen100: '#39b361ff',
-  seaGreen200: '#4fae72ff',
-  viridian: '#468570ff',
-  deepSpaceSparkle100: '#3d5c6eff',
-  deepSpaceSparkle200: '#3c5a69ff',
-  deepSpaceSparkle300: '#3a5764ff',
-  aliceBlue: '#dee9efff',
+  black: '#000',
+
+  gray100: '#E1E1E6',
+  gray200: '#A9A9B2',
+  gray400: '#7C7C8A',
+  gray500: '#505059',
+  gray600: '#323238',
+  gray700: '#29292E',
+  gray800: '#202024',
+  gray900: '#121214',
+
+  ignite300: '#00B37E',
+  ignite500: '#00875F',
+  ignite700: '#015F43',
+  ignite900: '#00291D',
 }

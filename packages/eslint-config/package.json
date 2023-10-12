@@ -1,5 +1,6 @@
 {
-  "name": "@intelmes/eslint-config",
+  "name": "@design-system/eslint-config",
+  "version": "2.0.0",
   "license": "MIT",
   "private": true,
   "main": "index.js",
